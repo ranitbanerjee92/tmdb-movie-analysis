@@ -1,0 +1,9 @@
+# Raw data - large files, not redistributed
+data/*.csv
+
+# Jupyter checkpoint files (auto-generated clutter)
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
